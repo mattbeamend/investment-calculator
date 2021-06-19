@@ -4,4 +4,4 @@ A simple, modern compound interest calculator, which takes a number of inputs in
 
 Then utilises swiftUI charts to animate and display the correlation between the growth of your investment deposits and final sum.
 
-![App Screenshot](screenshot.png)
+<img src="screenshot.png" width="300">
