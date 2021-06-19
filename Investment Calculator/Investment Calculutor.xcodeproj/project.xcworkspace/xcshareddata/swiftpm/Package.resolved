@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUICharts",
+        "repositoryURL": "https://github.com/AfrazCodes/SwiftUICharts",
+        "state": {
+          "branch": null,
+          "revision": "6cacb77e8d3e0a9ed1d09ce9a19ba057c95ce529",
+          "version": "0.5.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
